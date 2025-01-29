@@ -1,13 +1,21 @@
 # Hi there 👋
 
-## 이런 환경에 익숙해요✍🏼
+## 💡 About Me
+안녕하세요! 저는 **Python**과 **SQL**을 주로 활용하여 데이터 분석 및 개발을 수행하는 개발자입니다.  
+코딩 테스트, 데이터 처리, SQL 활용 등에 관심이 많으며, 해당 주제로 블로그 포스팅을 작성하고 있습니다.
 
-## 언어
-
+## 🔥 주요 기술 스택
 <p>
-  <img alt="" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
-  <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </p>
+
+## ✍🏼 주요 포스팅 주제
+✔ **Python**: 데이터 분석, 알고리즘, 자동화 스크립트  
+✔ **SQL**: 데이터베이스 쿼리 작성 및 최적화  
+✔ **코딩테스트**: 프로그래머스, 백준 등 문제 풀이  
 
 ## 📕 Latest Blog Posts
 
