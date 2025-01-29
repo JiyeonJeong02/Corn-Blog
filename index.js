@@ -7,14 +7,24 @@ import Parser from "rss-parser";
  */
 let text = `# Hi there 👋
 
-## 이런 환경에 익숙해요✍🏼
+이 코드는 **Corn/sec(초당옥수수)의 블로그 최신 포스팅을 자동으로 업데이트** 합니다. 아래 링크에서 블로그 게시물을 확인할 수 있습니다. 🚀
 
-## 언어
+📌 [블로그 바로가기](https://chodang-corn.tistory.com/)
 
+
+## 🔥 기술 스택
 <p>
-  <img alt="" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
-  <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </p>
+
+## ✍🏼 주요 포스팅 주제
+✔ **Python**: 데이터 분석, 알고리즘, 자동화 스크립트  
+✔ **SQL**: 데이터베이스 쿼리 작성 및 최적화  
+✔ **코딩테스트**: 프로그래머스, 백준 등 문제 풀이  
+
 
 ## 📕 Latest Blog Posts
 
